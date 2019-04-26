@@ -17,7 +17,7 @@ import java.util.Collections;
 import java.util.List;
 
 @RestController
-@CrossOrigin("http://localhost:4200")
+@CrossOrigin("http://localhost:3000")
 public class MovieController {
     Url url = new Url();
 
